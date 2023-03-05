@@ -8,4 +8,4 @@ while (x <= Number)
         Console.WriteLine(x);
     }
         x++;
-    }
+}
