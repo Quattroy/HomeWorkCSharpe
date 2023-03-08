@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-int b = 12321;
-int a = b%100/10;
+int b = 12325;
+int a = b%10;
 Console.WriteLine(a);
