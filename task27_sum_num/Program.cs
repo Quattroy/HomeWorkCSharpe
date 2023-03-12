@@ -32,6 +32,3 @@ int GetSum(int numberA)
     }
     return sum;
 }
-
-
-
